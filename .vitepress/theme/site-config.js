@@ -107,7 +107,7 @@ export const siteConfig = {
     title: 'Weidian Spreadsheet 2026 - Weidian Finds, Category Guides and Product Research',
     description: 'Explore Weidian Spreadsheet 2026 through organized Weidian finds, category overviews, focused guides and direct spreadsheet access.',
     keywords: ['weidian spreadsheet 2026', 'weidian spreadsheet', 'weidian finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
-    ga4: 'G-9WJTE8DY0P',
+    ga4: 'G-DXG4Y441ZS',
   },
 
   // ---- Announcement Bar ----
